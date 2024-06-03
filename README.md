@@ -32,7 +32,7 @@ The goal of this project is to analyze historical population data and build an L
 
 2. Install the required packages:
     ```bash
-    pip install --requirements.txt
+    pip install -r requirements.txt
     ```
 
 ## Data
