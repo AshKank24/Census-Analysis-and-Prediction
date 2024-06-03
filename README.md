@@ -32,7 +32,7 @@ The goal of this project is to analyze historical population data and build an L
 
 2. Install the required packages:
     ```bash
-    pip install numpy pandas matplotlib scikit-learn tensorflow keras
+    pip install --requirements.txt
     ```
 
 ## Data
